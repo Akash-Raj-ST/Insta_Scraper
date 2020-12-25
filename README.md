@@ -82,5 +82,5 @@ images = insta.images(loc='',profile='')
 ```
 ---
 ---
-I have also created an [__Insta bot__](https://github.com/Akash-Raj-ST/Insta_Bot) which uses similar scraping technique to alert through discord when someone __unfollows__.
+
 ********
